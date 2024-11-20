@@ -306,9 +306,4 @@ Instance `CookieRequest` perlu dibagikan ke seluruh komponen aplikasi menggunaka
 
 ---
 
-### **7. Add, Commit, Push**
-Setelah semua fitur selesai:
-```bash
-git add .
-git commit -m "Tutorial 8 selesai"
-git push origin main
+
